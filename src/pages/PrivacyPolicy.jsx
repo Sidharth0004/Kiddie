@@ -137,6 +137,11 @@ const PrivacyPolicy = () => {
                   To comply with safety, legal, and licensing
                   requirements.
                 </li>
+                   <li>
+                  SMS messages to user who consent to receive the messages will only receive message from us.
+                  We send upto 5 messages per day. Message and data rates may apply.
+                  requirements.
+                </li>
               </ul>
             </div>
           </div>
@@ -150,7 +155,7 @@ const PrivacyPolicy = () => {
             <div className="space-y-6 text-gray-700 leading-relaxed text-base sm:text-lg">
               
               <p>
-                Kiddie Academy does not sell your personal information.
+                Kiddie Academy does not sell and share your personal information.
               </p>
 
               <p>
