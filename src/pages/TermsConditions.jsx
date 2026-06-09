@@ -206,7 +206,39 @@ const TermsConditions = () => {
           {/* Section 9 */}
           <div>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-[#1e2d5b] mb-8">
-              9. Contact Information
+              9. SMS Messaging Service
+            </h2>
+
+            <div className="space-y-6 text-gray-700 leading-relaxed text-base sm:text-lg">
+              
+              <p>
+                  By providing my phone number, I consent to receive SMS text messages from Kiddie Academy of Snoqualmie for school reminders, information messages, and general two-way communication. 
+                  Msg frequency varies. Msg & data rates may apply. Reply HELP for support. Reply STOP to opt out. 
+              </p>
+
+              <p>
+                <b> Message Frequency</b>
+                <p>You may receive up to 5 messages per day</p>
+              </p>
+
+              <p>
+                <b> Message and Data Ratesy</b>
+                <p>Message and data rates may apply based on your mobile carrier’s terms.</p>
+              </p>
+
+                 <p>
+                <b>Privacy Policy</b>
+                <p>Your information will be handled in accordance with our Privacy Policy, which can be viewed at.</p>
+              </p>
+              
+            </div>
+          </div>
+
+          
+          {/* Section 10 */}
+          <div>
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-[#1e2d5b] mb-8">
+              10. Contact Information
             </h2>
 
             <div className="space-y-4 text-gray-700 leading-relaxed text-base sm:text-lg">
