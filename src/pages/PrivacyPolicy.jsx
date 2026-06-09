@@ -41,7 +41,7 @@ const PrivacyPolicy = () => {
               
               <p>
                 This Privacy Policy applies to all visitors, parents,
-                guardians, and users who interact with Kiddie Academy
+                guardians, and users who interact with Kiddie Academy of Snoqualmie
                 through our website, programs, and services.
               </p>
 
@@ -80,7 +80,7 @@ const PrivacyPolicy = () => {
                   <span className="font-semibold">
                     SMS Messages:
                   </span>{" "}
-                  When you ont in to receive SMS messages, we collect your phone number and consent to send SMS messages.                   
+                  When you opt in to receive SMS messages, we collect your phone number and consent to send SMS messages.                   
                 </li>
                 
                 <li>
