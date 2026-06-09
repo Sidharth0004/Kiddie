@@ -14,7 +14,7 @@ const Hero = () => {
           
           {/* Badge */}
           <div className="inline-flex items-center gap-2 bg-[#eef7eb] border border-[#d7ead1] px-4 py-2 rounded-full text-sm text-[#4b6b43]">
-            ✨ Best Preschool Learning Platform
+            ✨ Best Preschool Learning Platform.
           </div>
 
           {/* Heading */}
