@@ -222,14 +222,26 @@ const TermsConditions = () => {
               </p>
 
               <p>
-                <b> Message and Data Ratesy</b>
+                <b> Message and Data Rates</b>
                 <p>Message and data rates may apply based on your mobile carrier’s terms.</p>
               </p>
 
                  <p>
                 <b>Privacy Policy</b>
-                <p>Your information will be handled in accordance with our Privacy Policy, which can be viewed at.</p>
+                <p>Your information will be handled in accordance with our Privacy Policy, which can be viewed at <a href="https://kiddieacademysnoqualmie.com/privacy-policy">Privacy Policy</a> .</p>
               </p>
+
+              <p>
+                <b> Opt-Out Instructions</b>
+                <p>You can opt out at any time by replying “STOP” to any SMS message. Reply HELP for support.</p>
+              </p>
+
+              
+              <p>
+                <b>Liability</b>
+                <p>We are not responsible for any charges, errors, or delays in SMS delivery caused by your carrier or third-party service providers. By opting in, you confirm that you are the owner or authorized user of the phone number provided and that you are at least 18 years old.</p>
+              </p>
+              
               
             </div>
           </div>
