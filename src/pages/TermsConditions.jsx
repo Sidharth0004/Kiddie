@@ -19,11 +19,11 @@ const TermsConditions = () => {
 
           <p className="mt-6 text-gray-600 max-w-3xl leading-relaxed text-base sm:text-lg">
             Please read these Terms and Conditions carefully before using
-            the Kiddie Academy website and services.
+            the Kiddie Academy of Snoqualmie website and services.
           </p>
 
           <p className="mt-3 text-sm text-gray-500">
-            Effective Date: May 7, 2024
+            Effective Date: May 7, 2026
           </p>
         </div>
 
