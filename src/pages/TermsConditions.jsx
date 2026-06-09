@@ -206,7 +206,65 @@ const TermsConditions = () => {
           {/* Section 9 */}
           <div>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-[#1e2d5b] mb-8">
-              9. Contact Information
+              9. SMS Messaging Service
+            </h2>
+
+            <div className="space-y-6 text-gray-700 leading-relaxed text-base sm:text-lg">
+
+              <p>
+              <span className="font-semibold">Kiddie Academy of Snoqualmie Text Messaging Terms of Use</span>
+              <p></p>
+                By "Opting In" to or using a "Text Message Service" (as defined below) from Kiddie Academy of Snoqualmie, you accept these Terms & Conditions.   
+              </p>
+
+              <p>
+              <span className="font-semibold">Definitions</span>
+              <p></p>
+                "Opting In," "Opt In," and "Opt-In" refer to requesting, joining, agreeing to, enrolling in, signing up for, acknowledging, responding to, or otherwise consenting to receive one or more text messages.
+                "Text Message Service" includes any arrangement or situation in which we send one or more messages addressed to your mobile phone number, including text messages (such as SMS, MMS, or successor protocols or technologies).
+              </p>
+              
+              <p>
+                <span className="font-semibold">Consent to Text Messaging</span>
+                  By providing my phone number, I consent to receive SMS text messages from Kiddie Academy of Snoqualmie for school reminders, information messages, and general two-way communication. 
+                  Msg frequency varies. Msg & data rates may apply. Reply HELP for support. Reply STOP to opt out. 
+              </p>
+
+              <p>
+                <span className="font-semibold">Message Frequency</span>
+                <p>You may receive up to 5 messages per day</p>
+              </p>
+
+              <p>
+                 <span className="font-semibold">Message and Data Rates</span>
+                <p>We do not charge you for the messages you send and receive via this text message service. But message and data rates may apply based on your mobile carrier’s terms.</p>
+              </p>
+
+                 <p>
+                <span className="font-semibold">Privacy Policy</span>
+                <p>Your information will be handled in accordance with our Privacy Policy, which can be viewed at <a href="https://kiddieacademysnoqualmie.com/privacy-policy">Privacy Policy</a> .</p>
+              </p>
+
+              <p>
+                <span className="font-semibold">Opt-Out Instructions</span>
+                <p>You can opt out at any time by replying “STOP” to any SMS message. Reply HELP for support.</p>
+              </p>
+
+              
+              <p>
+                <span className="font-semibold">Liability</span>
+                <p>We are not responsible for any charges, errors, or delays in SMS delivery caused by your carrier or third-party service providers. By opting in, you confirm that you are the owner or authorized user of the phone number provided and that you are at least 18 years old.</p>
+              </p>
+              
+              
+            </div>
+          </div>
+
+          
+          {/* Section 10 */}
+          <div>
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-[#1e2d5b] mb-8">
+              10. Contact Information
             </h2>
 
             <div className="space-y-4 text-gray-700 leading-relaxed text-base sm:text-lg">

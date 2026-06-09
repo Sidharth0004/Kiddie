@@ -179,9 +179,8 @@ const ContactForm = () => {
 
 
 <p className="text-gray-700 leading-relaxed">
-  It's OK for Kiddie Academy of Snoqualmie to send me
-  text messages regarding this inquiry. Message and data rates apply. Message frequency varies. Reply HELP
-  for help, or STOP to opt out. View{" "}
+  I provide my consent to Kiddie Academy of Snoqualmie to send me text messages regarding this inquiry. Message and data rates apply. Message frequency varies. Reply HELP
+  for help, or STOP to opt out. Phone numbers aren't shared with third parties. View{" "}
 
   <Link
     to="/terms-conditions"
