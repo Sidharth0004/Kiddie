@@ -18,13 +18,13 @@ const PrivacyPolicy = () => {
           </h1>
 
           <p className="mt-6 text-gray-600 max-w-3xl leading-relaxed text-base sm:text-lg">
-            This Privacy Policy explains how Kiddie Academy collects,
+            This Privacy Policy explains how Kiddie Academy of Snoqualmie collects,
             uses, protects, and handles your information when using our
             services and website.
           </p>
 
           <p className="mt-3 text-sm text-gray-500">
-            Effective Date: May 7, 2023
+            Effective Date: May 7, 2026
           </p>
         </div>
 
@@ -146,7 +146,7 @@ const PrivacyPolicy = () => {
                 </li>
 
                 <li>
-                 We may send one or more messages but no more than 5 messages per day depending on the weather conditions. 
+                 We may send one or more messages but no more than 5 messages per day. 
                   Message and data rates may apply.
                 </li>
                 
@@ -163,7 +163,7 @@ const PrivacyPolicy = () => {
             <div className="space-y-6 text-gray-700 leading-relaxed text-base sm:text-lg">
               
               <p>
-                Kiddie Academy does not sell or share your personal information.
+                Kiddie Academy of Snoqualmie does not sell or share your personal information.
               </p>
 
               <p>
