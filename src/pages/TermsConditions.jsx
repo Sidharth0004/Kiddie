@@ -39,7 +39,7 @@ const TermsConditions = () => {
             <div className="space-y-6 text-gray-700 leading-relaxed text-base sm:text-lg">
               
               <p>
-                By accessing or using the Kiddie Academy website, you
+                By accessing or using the Kiddie Academy of Snoqualmie website, you
                 agree to comply with these Terms and Conditions and all
                 applicable laws and regulations.
               </p>
@@ -92,7 +92,7 @@ const TermsConditions = () => {
               
               <p>
                 All website content including logos, text, graphics,
-                images, and designs are the property of Kiddie Academy
+                images, and designs are the property of Kiddie Academy of Snoqualmie
                 unless otherwise stated.
               </p>
 
@@ -112,7 +112,7 @@ const TermsConditions = () => {
             <div className="space-y-6 text-gray-700 leading-relaxed text-base sm:text-lg">
               
               <p>
-                Enrollment into Kiddie Academy programs is subject to
+                Enrollment into Kiddie Academy of Snoqualmie programs is subject to
                 availability and acceptance by the academy.
               </p>
 
@@ -153,7 +153,7 @@ const TermsConditions = () => {
             <div className="space-y-6 text-gray-700 leading-relaxed text-base sm:text-lg">
               
               <p>
-                Kiddie Academy is not responsible for any direct,
+                Kiddie Academy of Snoqualmie is not responsible for any direct,
                 indirect, incidental, or consequential damages arising
                 from the use of this website or services.
               </p>
@@ -191,7 +191,7 @@ const TermsConditions = () => {
             <div className="space-y-6 text-gray-700 leading-relaxed text-base sm:text-lg">
               
               <p>
-                Kiddie Academy reserves the right to update or modify
+                Kiddie Academy of Snoqualmie reserves the right to update or modify
                 these Terms and Conditions at any time without prior
                 notice.
               </p>
@@ -242,7 +242,7 @@ const TermsConditions = () => {
 
                  <p>
                 <span className="font-semibold">Privacy Policy</span>
-                <p>Your information will be handled in accordance with our Privacy Policy, which can be viewed at <a href="https://kiddieacademysnoqualmie.com/privacy-policy">Privacy Policy</a> .</p>
+                <p>Your information will be handled in accordance with our Privacy Policy, which can be viewed at <a href="https://www.kiddieacademysnoqualmie.com/privacy-policy">Privacy Policy</a> .</p>
               </p>
 
               <p>
