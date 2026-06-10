@@ -23,7 +23,7 @@ const ContactForm = () => {
          "7RtwI33u9qS5heQEz"
       )
       .then(() => {
-        alert("Message sent successfully!");
+        alert("Thank you for submitting your information.");
       })
       .catch((error) => {
         console.log(error);
