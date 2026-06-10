@@ -256,7 +256,34 @@ const PrivacyPolicy = () => {
           {/* Section 9 */}
           <div>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-[#1e2d5b] mb-8">
-              9. Changes to This Policy
+              9. Messaging Terms & Conditions
+            </h2>
+
+                <p>
+               When you opt-in to receive SMS/MMS communications from Kiddie Academy of Snoqualmie, you agree to receive SMS and text messages.
+              Frequency may vary. Message & Data rates may apply. Text STOP to opt-out, Text HELP for assistance or reach us using our Contact information.
+              </p>
+            
+              <div className="space-y-6 text-gray-700 leading-relaxed text-base sm:text-lg">
+              <span className="font-semibold">Opting Out</span>   
+              <p>
+               You can opt out at any time by replying with STOP.
+              </p>
+            </div>
+
+            <div className="space-y-6 text-gray-700 leading-relaxed text-base sm:text-lg">
+              <span className="font-semibold">Your Privacy Rightst</span>   
+              <p>
+               You have the right to access, correct, or delete your personal information. To exercise these rights, please contact us.
+              </p>
+            </div>
+
+          </div>
+          
+          {/* Section 10 */}
+          <div>
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-black text-[#1e2d5b] mb-8">
+              10. Changes to This Policy
             </h2>
 
             <div className="space-y-6 text-gray-700 leading-relaxed text-base sm:text-lg">
